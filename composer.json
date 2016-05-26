@@ -1,5 +1,5 @@
 {
-    "name": "nulpunkt/yesql-php",
+    "name": "colourbox/yesql-php",
     "description": "A clone of the wonderful yesql clojure library, for php",
     "license": "MIT",
     "authors": [
