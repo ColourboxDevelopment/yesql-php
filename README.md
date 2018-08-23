@@ -1,4 +1,5 @@
 # yesql-php [![Build Status](https://travis-ci.org/nulpunkt/yesql-php.png?branch=master)](https://travis-ci.org/nulpunkt/yesql-php)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FColourboxDevelopment%2Fyesql-php.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FColourboxDevelopment%2Fyesql-php?ref=badge_shield)
 
 I'm trying to build a clone of the wonderful yesql library from clojure.
 The idea is to have a seperate sql file for queries, which you can then access
@@ -113,3 +114,7 @@ class MyObject {
 $o = new MyObject;
 $r->insertObject($i, $o) 
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FColourboxDevelopment%2Fyesql-php.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FColourboxDevelopment%2Fyesql-php?ref=badge_large)
